@@ -18,18 +18,17 @@ Data cleaning was done using **Pandas** in a Jupyter Notebook:
 Notebook: `notebook/data_cleaning.ipynb`
 
 ## 📊 Power BI Dashboard
-The Power BI report contains **two pages**:
+The Power BI report contains **one page**:
 
 ### Page 1 – Market Overview
 - Number of models per launch year  
 - Top 5 most expensive models  
 - Average price by brand over years  
-- Market share of top brands  
-
-### Page 2 – Phone Comparison
-- Full comparison table with all specifications  
+- Market share of top brands
+- Full comparison table with all specifications
+- Dynamic filtering by brand, RAM, storage, year, and price
 - Country-based price selection  
-- Dynamic filtering by brand, RAM, storage, year, and price  
+
 
 ## 🛠 Tools & Technologies
 - Python (Pandas, Regex)
@@ -38,4 +37,4 @@ The Power BI report contains **two pages**:
 - Git & GitHub
 
 ## 📁 Dataset
-Cleaned dataset available in:
+Cleaned dataset available in: https://www.kaggle.com/code/iomars/mobile-analysis-ready-for-powerbi
