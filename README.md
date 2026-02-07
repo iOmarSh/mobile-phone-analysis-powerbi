@@ -2,6 +2,10 @@
 
 An end-to-end data analysis project using **Python (Pandas)** and **Power BI** to explore and compare mobile phone specifications and prices across different countries.
 
+## 📊 Dashboard Preview
+
+![Power BI Dashboard](Dashboard-overview.png)
+
 ## 🚀 Project Overview
 This project focuses on:
 - Cleaning and structuring messy mobile phone data
