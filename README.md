@@ -15,7 +15,6 @@ Data cleaning was done using **Pandas** in a Jupyter Notebook:
 - Handled unavailable prices and missing values
 - Prepared country-wise prices for Power BI analysis
 
-Notebook: `notebook/data_cleaning.ipynb`
 
 ## 📊 Power BI Dashboard
 The Power BI report contains **one page**:
